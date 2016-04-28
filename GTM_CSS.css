@@ -1,0 +1,71 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	background-image:url(http://dizofyq6y2cqx.cloudfront.net/gitm/images/countdown/GTM_countdown_bg.jpg);
+background-repeat: no-repeat center center fixed;
+background-repeat: no-repeat;
+margin: 0;
+width:100%;
+background-size:cover;
+}
+
+
+.wrapper {
+	width:1140px;
+	margin:0 auto;
+}
+
+/*.Lineup_ind {
+	width:1500px;
+	padding:0px;
+	margin-top:10px;
+	margin-right:5px;
+	margin-bottom:10px;
+	margin-left:5px;
+	border-width:3px;
+	border-style:solid;
+	border-color:#A5A5A5;
+	background-color:rgba(45,54,57,1.00);
+	color:white;
+	font-family:arial;}
+.description{
+	display:none;
+}
+.Name{
+	position:absolute;
+	bottom:0px;
+	width:60%;
+	height:25%;
+	margin:auto;
+	font-size:36px;
+	text-align:center;	
+}
+.name>h3{background-color:rgba(0,0,0,0.57)}
+.Lineup_img{
+	min-width:1500px;
+	width:100%;
+}
+img{
+	max-width:100%;
+	}*/
+	
+	
+	.Lineup_ind {
+		height:300px;
+		width:50%;
+		float:left;
+	}
+	.Lineup_img:hover {
+	background:rgba(204,178,179,4.00);	
+	}
+	
+	/*.alison {
+		background:url(http://dizofyq6y2cqx.cloudfront.net/gitm/uploads/5692e9ec8d074.jpg) no-repeat;
+		background-size:80%;
+	}*/
+	
+	#alison {
+		background:url(http://dizofyq6y2cqx.cloudfront.net/gitm/uploads/5692e9ec8d074.jpg) no-repeat;
+		background-size:80%;
+	}
